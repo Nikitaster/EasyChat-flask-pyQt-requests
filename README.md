@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Gif preview](https://s8.gifyu.com/images/Hnet-image-1953470f43d3bfcc0.md.gif)](https://gifyu.com/image/gPhf)
+![Preview gif](./preview.gif)
 
 ## Installation and Run: 
 ```python
