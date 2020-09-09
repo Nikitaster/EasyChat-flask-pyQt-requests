@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview gif](./preview.gif)
+<img src="./preview.gif" width="75%" />
 
 ## Installation and Run: 
 ```python
